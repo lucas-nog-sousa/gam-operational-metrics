@@ -14,5 +14,5 @@ Standard linear regressions or rigid logistic models assume every extra minute o
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/lucasnogsousa/data-science-ai.git](https://github.com/lucasnogsousa/data-science-ai.git)
-   cd data-science-ai/tutorials/02-gam-operational-metrics
+   git clone [https://github.com/lucasnogsousa/gam-operational-metrics.git](https://github.com/lucasnogsousa/gam-operational-metrics.git)
+   cd gam-operational-metrics
